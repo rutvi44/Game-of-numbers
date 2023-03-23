@@ -1,5 +1,5 @@
 ﻿/*
- * Name of project: Game of Numbers (Assignment 3)
+ * Name of project: Game of Numbers
  * Purpose: To showing Menu and do some activities like showing manipulated numbers, playing math game and exit.
  *
  * Revision Histrory:
