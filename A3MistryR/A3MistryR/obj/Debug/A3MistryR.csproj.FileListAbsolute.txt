@@ -1,0 +1,8 @@
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\SEM 1\Programming conecepts 1\Assignment\Assignment3.0\A3MistryR\A3MistryR\bin\Debug\A3MistryR.exe.config
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\SEM 1\Programming conecepts 1\Assignment\Assignment3.0\A3MistryR\A3MistryR\bin\Debug\A3MistryR.exe
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\SEM 1\Programming conecepts 1\Assignment\Assignment3.0\A3MistryR\A3MistryR\bin\Debug\A3MistryR.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\SEM 1\Programming conecepts 1\Assignment\Assignment3.0\A3MistryR\A3MistryR\obj\Debug\A3MistryR.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\SEM 1\Programming conecepts 1\Assignment\Assignment3.0\A3MistryR\A3MistryR\obj\Debug\A3MistryR.csproj.SuggestedBindingRedirects.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\SEM 1\Programming conecepts 1\Assignment\Assignment3.0\A3MistryR\A3MistryR\obj\Debug\A3MistryR.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\SEM 1\Programming conecepts 1\Assignment\Assignment3.0\A3MistryR\A3MistryR\obj\Debug\A3MistryR.exe
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\SEM 1\Programming conecepts 1\Assignment\Assignment3.0\A3MistryR\A3MistryR\obj\Debug\A3MistryR.pdb
