@@ -1,10 +1,4 @@
-﻿/*
- * Name of project: Game of Numbers
- * Purpose: To showing Menu and do some activities like showing manipulated numbers, playing math game and exit.
- *
- * Revision Histrory:
- *      Rutvi Mistry, 2023.03.15: Created
- */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
